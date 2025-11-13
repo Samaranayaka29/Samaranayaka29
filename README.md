@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines= Frontend+Dev+%7C+AI+Enthusiast+%7C+DevOps+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Dev+%7C+AI+Enthusiast+%7C+DevOps+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ---
@@ -39,9 +39,6 @@
 
 
 ### GitHub Stats
-<p align="center">
-  <img src="![githubstatus](https://github.com/user-attachments/assets/4d086516-3bea-4cd7-8f75-8f2765848379)" / >
-</p>
 
 
 
