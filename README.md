@@ -14,7 +14,7 @@
 
 - I’m currently learning **Laravel, Angular,DevOps tools and Node.js**
 - All of my projects are available on [LinkedIn](https://www.linkedin.com/in/ayodya-thathsarani-962375267/)
-- Reach me via: [Ayodya Thathsarani](https://lnkd.in/g7JpWun4))
+- Reach me via: [Ayodya Thathsarani](https://lnkd.in/g7JpWun4)
 - More about me on [LinkedIn](https://www.linkedin.com/in/ayodya-thathsarani-962375267/)
 
 
