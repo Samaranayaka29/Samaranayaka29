@@ -39,7 +39,11 @@
 
 
 ### GitHub Stats
-
+<p align="center">
+  <img src="![Ayodya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyodyaThathsarani&show_icons=true&theme=radical)" />
+  <img src="![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyodyaThathsarani&layout=compact&theme=radical)" />
+  <img src="![GitHub Streak](https://streak-stats.demolab.com?user=AyodyaThathsarani&theme=radical)" />
+</p>
 
 
     
