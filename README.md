@@ -1,6 +1,15 @@
-<h1 align="center">Hi, I'm Ayodya Thathsarani</h1>
-<h3 align="center">Constantly learning, improving, and sharing ideas with others.</h3>
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+<h1 align="center">Hi 👋, I'm Ayodya Thathsarani</h1>
+<h3 align="center">A third-year undergraduate student at the Faculty of Computing, Sabaragamuwa
+ University of Sri Lanka.</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+
+- 👨‍💻 All of my projects are available at [(https://www.linkedin.com/in/ayodya-thathsarani-962375267/)]
+
+- ⚡ Fun fact **I am funny😅**
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/632feff779897f80f0cc70582c4b505da59852a7376d08eef7611bbea8b0359a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73616d6172616e6179616b613239266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="(https://www.linkedin.com/in/ayodya-thathsarani-962375267/)" />
@@ -12,7 +21,7 @@
 
 ---
 
-- I’m currently learning **Laravel, Angular,DevOps tools and Node.js**
+- I’m currently learning *Laravel, Angular,DevOps tools and Node.js*
 - All of my projects are available on [LinkedIn](https://www.linkedin.com/in/ayodya-thathsarani-962375267/)
 - Reach me via: [Ayodya Thathsarani](https://lnkd.in/g7JpWun4)
 - More about me on [LinkedIn](https://www.linkedin.com/in/ayodya-thathsarani-962375267/)
@@ -37,18 +46,15 @@
 </p>
 
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
 
-
-### GitHub Stats
-<p align="center">
-  <img src="![Ayodya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyodyaThathsarani&show_icons=true&theme=radical)" />
-  <img src="![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyodyaThathsarani&layout=compact&theme=radical)" />
-  <img src="![GitHub Streak](https://streak-stats.demolab.com?user=AyodyaThathsarani&theme=radical)" />
-</p>
 
 
     
