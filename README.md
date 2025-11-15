@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Dev+%7C+AI+Enthusiast+%7C+DevOps+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Dev+%7C+FullStack+Dev+%7C+DevOps+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,10 +38,30 @@
 
 
 
-### GitHub Stats
+### GitHub Trophies
+
 <p align="center">
-  <img src="![Ayodya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyodyaThathsarani&show_icons=true&theme=radical)" />
-  <img src="![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyodyaThathsarani&layout=compact&theme=radical)" />
-  <img src="![GitHub Streak](https://streak-stats.demolab.com?user=AyodyaThathsarani&theme=radical)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Samaranayaka29&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
 </p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samaranayaka29&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samaranayaka29&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samaranayaka29&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### ☕ Support Me
+
+<p align="center">
+  <a href="https://ko-fi.com/Manage" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
 
